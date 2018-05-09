@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/AntonPaninNN/gulp-scaffold/issues"
   },
-  "homepage": "https://github.com/AntonPaninNN/gulp-scaffold#readme"
+  "homepage": "https://github.com/AntonPaninNN/gulp-scaffold#readme",
+  "devDependencies": {
+    "gulp-base64": "^0.1.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
 }
