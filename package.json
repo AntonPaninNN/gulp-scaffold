@@ -1,0 +1,23 @@
+{
+  "name": "gulp-scaffold",
+  "version": "1.0.0",
+  "description": "Simple gulp app for testing a couple of plugins",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonPaninNN/gulp-scaffold.git"
+  },
+  "keywords": [
+    "gulp",
+    "scaffold"
+  ],
+  "author": "Anton Panin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonPaninNN/gulp-scaffold/issues"
+  },
+  "homepage": "https://github.com/AntonPaninNN/gulp-scaffold#readme"
+}
